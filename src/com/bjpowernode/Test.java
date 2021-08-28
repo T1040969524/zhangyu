@@ -11,6 +11,6 @@ public class Test {
     }
 
     public void doSome(){
-
+        System.out.println("1");
     }
 }
